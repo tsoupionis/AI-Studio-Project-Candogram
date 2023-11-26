@@ -1,0 +1,9 @@
+LDA Clusters (Biggest to Smallest):
+Cluster 1 - Product Support Engineer
+Cluster 2 - Maintenance Engineer
+Cluster 3 - Project Management Engineer
+Cluster 4 - Design Engineer
+Cluster 5 - Software and Systems Engineer  
+Cluster 6 - Aerospace and Vehicle Systems Engineer
+Cluster 7 - Test Engineer 
+Cluster 8 - Facility and Building Engineer
