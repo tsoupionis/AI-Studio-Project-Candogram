@@ -1,0 +1,260 @@
+Cluster0 - Field Project Engineer - Red
+ client
+ design
+ project
+ projects
+ management
+ support
+ development
+ construction
+ provide
+ field
+
+
+Cluster1 - Design and Systems Analyst Engineer - Green
+ design
+ development
+ analysis
+ support
+ project
+ develop
+ experience
+ technical
+ systems
+ projects
+
+
+Cluster2 - Mechanical and Electrical Maintenance Engineer - Yellow 
+ maintenance
+ equipment
+ systems
+ repair
+ mechanical
+ electrical
+ safety
+ operation
+ ensure
+ operations
+
+
+Cluster3 - Systems Testing Engineer - Blue
+ test
+ design
+ testing
+ system
+ systems
+ develop
+ support
+ development
+ plans
+ data
+
+
+Cluster4 - Systems Integration Engineer - Orange
+ systems
+ system
+ development
+ integration
+ design
+ analysis
+ support
+ technical
+ test
+ management
+
+
+Cluster5 - Manufacturing Process Engineer - Purple 
+ process
+ manufacturing
+ quality
+ processes
+ production
+ support
+ equipment
+ design
+ development
+ product
+
+
+Cluster6 - Project Management Engineer - Cyan 
+ project
+ management
+ project management
+ projects
+ design
+ construction
+ cost
+ support
+ technical
+ schedule
+
+
+Cluster7 - Software-Hardware Integration Engineer - Magenta 
+ software
+ development
+ hardware
+ design
+ systems
+ support
+ system
+ solutions
+ integration
+ test
+
+
+Cluster8 - Electrical Systems Maintenance Engineer - Lime 
+ equipment
+ systems
+ maintenance
+ electrical
+ support
+ design
+ testing
+ system
+ projects
+ mechanical
+
+
+Cluster9 - Building Systems Safety Engineer - Pink 
+ building
+ safety
+ systems
+ equipment
+ maintenance
+ repair
+ operation
+ operations
+ limited
+ client
+
+
+Cluster10 - Product Development Engineer - Teal 
+ product
+ development
+ design
+ new
+ support
+ quality
+ products
+ teams
+ technical
+ manufacturing
+
+
+Cluster11 - Technical Support Engineer - Lavender
+ support
+ technical
+ provide
+ development
+ program
+ management
+ systems
+ analysis
+ operations
+ design
+
+
+Cluster12 - Data Solutions Engineer - Brown
+ data
+ management
+ solutions
+ support
+ tools
+ development
+ business
+ develop
+ limited
+ design
+
+
+Cluster13 - Power Systems Design Engineer - Beige
+ power
+ design
+ system
+ systems
+ electrical
+ analysis
+ support
+ development
+ planning
+ project
+
+
+Cluster14 - Control Systems Design Engineer - Maroon
+ control
+ controls
+ systems
+ design
+ electrical
+ system
+ project
+ automation
+ process
+ support
+
+
+Cluster15 - Customer Support Engineer - Mint 
+ customer
+ technical
+ support
+ customers
+ solutions
+ provide
+ role
+ systems
+ product
+ business
+
+
+Cluster16 - Network Security Engineer - Olive
+ network
+ security
+ infrastructure
+ solutions
+ management
+ support
+ systems
+ development
+ teams
+ operations
+
+
+Cluster17 - Construction Design Engineer - Apricot
+ construction
+ design
+ project
+ projects
+ field
+ management
+ specifications
+ plans
+ planning
+ documents
+
+
+Cluster18 - Equipment Maintenance Engineer - Navy 
+ repair
+ maintenance
+ equipment
+ maintain
+ operation
+ assist
+ program
+ control
+ systems
+ standards
+
+
+Cluster19 - Technical Project Design Engineer - Black
+ projects
+ project
+ design
+ technical
+ designs
+ specifications
+ plans
+ construction
+ development
+ complex
+
+
